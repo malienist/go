@@ -1,0 +1,7 @@
+# Directory-based project format
+.idea/
+
+# mac hidden files
+.DS_store
+
+
